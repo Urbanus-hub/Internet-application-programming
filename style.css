@@ -1,0 +1,19 @@
+body{
+    background-color: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+width: 500px;
+height: fit-content;
+border: 100px;
+border-color: purple;
+margin: 14px;
+
+}
+table{
+border: 4px solid black;
+}
+td, th{
+    border: 2px solid black;
+}
